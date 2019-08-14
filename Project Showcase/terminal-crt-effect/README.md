@@ -1,6 +1,6 @@
 # Terminal CRT Effect
 
-![Well you were supposed to have a GIF here, so I guess try to reload the page?](/readmeimagesandstuffswhyareyoureadingthis/demo.gif)
+![Well you were supposed to have a GIF here, so I guess try to reload the page?](readmeimagesandstuffswhyareyoureadingthis/demo.gif)
 
 This was basically made to demonstrate how CRTs work, for an upcoming video.
 
