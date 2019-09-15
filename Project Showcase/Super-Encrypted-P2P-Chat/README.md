@@ -4,7 +4,7 @@ This repository hosts 2 types of encryption, a joke that I found on r/Programmer
 
 **Note: Proper encryption will only work in linux, I tried to trouble shoot with windows but scockets aren't very intuitive to use, so if you do have a solution then make a pull request or issue**
 
-Video of this Project: COMMING SOON!
+Video of this Project: https://www.youtube.com/watch?v=aD6_ibhySYk
 
 # Instructions for Joke Encryption:
 - Launch the server with your computers IP adress this can either be Global, Lan or Localhost (127.0.0.1) then type a port I recomend using 9000
